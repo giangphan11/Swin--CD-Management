@@ -1,4 +1,4 @@
-# Swin--CD-Management
+# Swing--CD-Management
 Group5 for project1
 Chương trình bắt đầu với menu như sau:
 * 1. Add(Thêm CD mới)
