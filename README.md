@@ -5,3 +5,4 @@ Chương trình bắt đầu với menu như sau:
 * 2. Search(Tìm kiếm CD theo tên)
 * 3. Display(Hiển thị danh mục CD)
 * 4. Exit(Kết thúc)
+* 5. Delete(Xoá)
